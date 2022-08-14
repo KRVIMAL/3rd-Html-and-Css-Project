@@ -13,4 +13,4 @@ It took me 2 hours to complete.
 [![main page clickable image](./screenshots/main-page.png)](https://criminal-justice.netlify.app/)
 
 
-  ##### [Click here to view live project](https://criminal-justice.netlify.app/"click here to view page")
+  ##### [Click here to view live project](https://criminal-justice.netlify.app/ "click here to view page")
