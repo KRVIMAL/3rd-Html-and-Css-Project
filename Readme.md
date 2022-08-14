@@ -10,7 +10,7 @@ It took me 2 hours to complete.
 4. Z-index
 5. Background Images
 
-[![main page clickable image](./screenshots/main-page.png)]https://criminal-justice.netlify.app/)
+[![main page clickable image](./screenshots/main-page.png)](https://criminal-justice.netlify.app/)
 
 
   ##### [Click here to view live project](https://criminal-justice.netlify.app/"click here to view page")
